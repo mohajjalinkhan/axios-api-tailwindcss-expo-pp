@@ -63,5 +63,3 @@ const RandomUser = () => {
 };
 
 export default RandomUser;
-
-const styles = StyleSheet.create({});
